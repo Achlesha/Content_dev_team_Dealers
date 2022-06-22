@@ -5,7 +5,6 @@
 * Add photos/schema in every subtitle so that the learner can include all his senses when learning. 
 
  
-
 * I suggest the computer vision services to read text(OCR API and Read API) would be introduced in a table to make the content clear, short, organized, highlight the difference between them: Definition, Process, Results 
 
  
